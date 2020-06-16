@@ -17,7 +17,15 @@ Code within this project is documented to ensure clear explanations on applicati
 <br>
 Standard coding practices are followed in order to maintain clean code in addition,
 each module is documented with an author, date and version number to help record changes done.
-</p>
+<hr>
+<h2>Technologies used:</h2>
+<ul>
+<li><p>HTML5</p></li>
+<li><p>CSS3</p></li>
+<li><p>Javascript</p></li>
+<li><p>Node.js</p></li>
+<li><p>React</p></li>
+</ul>
 
 # Getting Started
 
