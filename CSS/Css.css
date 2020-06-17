@@ -1,0 +1,29 @@
+/* Affects whole HTML */
+* {
+    font-family: arial;
+    font-size: 21px;
+    color: gold;
+    background-color: black;
+
+}
+
+/* Screen title */
+main-title {
+    font-family: arial;
+    font-size: 16px;
+    
+}
+
+nav-bar {
+    background-color: black;
+    overflow: hidden;
+}
+
+nav-bar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
